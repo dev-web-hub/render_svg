@@ -1,3 +1,3 @@
-module github.com/max/render_svg
+module github.com/dev-web-hub/render_svg
 
 go 1.22
